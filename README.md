@@ -23,6 +23,8 @@ The app keeps calculation history, formulas, and preferences locally on each dev
 
 Run `Apex-Setup.exe` and follow the installer. It installs for the current Windows account and does not require administrator access.
 
+The installer and Apex app are **64-bit x64** (not 32-bit). The 43 MB installer includes the app and its runtime, so it may take a while on a slower connection. It requires 64-bit Windows.
+
 The installer can be run again over an existing installation to replace the app files with the current version. The app keeps saved history, formulas, and preferences in your Windows account.
 
 ## Verify a download
