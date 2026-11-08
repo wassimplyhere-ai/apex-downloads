@@ -4,7 +4,7 @@ Apex is a calculator and everyday math toolbox for Windows, phones, and tablets.
 
 ## Downloads
 
-- [Windows installer](https://github.com/wassimplyhere-ai/apex-downloads/raw/refs/heads/main/Apex-Setup.exe) — installs Apex for the current Windows account. The public build omits personal contact details.
+- [Windows installer](https://github.com/wassimplyhere-ai/apex-downloads/raw/refs/heads/main/Apex-Setup.exe) — installs Apex for the current Windows account. The installer itself does not embed personal contact details.
 - [Mobile and iPad package](https://github.com/wassimplyhere-ai/apex-downloads/raw/refs/heads/main/Apex-Mobile-PWA.zip) — a Progressive Web App package for hosting and adding to a device home screen.
 
 ## Mobile setup
@@ -16,3 +16,11 @@ The app keeps calculation history and preferences locally on each device. Dictio
 ## Windows setup
 
 Run `Apex-Setup.exe` and follow the installer. It installs for the current Windows account and does not require administrator access.
+
+## Contact and support
+
+Questions, feedback, or ideas for Apex? Reach me on Discord at **simplysimpleealt**.
+
+Enjoying Apex? If you’d like to support me while I keep improving it, optional contributions are appreciated. Using Apex and downloading it are free; support is never required.
+
+- [Support me on PayPal](https://paypal.me/YeonIslonely) — paypal.me/YeonIslonely
