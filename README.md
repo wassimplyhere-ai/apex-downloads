@@ -6,6 +6,8 @@ Apex is a calculator and everyday math toolbox for Windows, phones, and tablets.
 
 The new **Math Lab** adds function graphs, linear and quadratic equation solving, interval root finding, numerical derivatives and integrals, data statistics with quartiles, and a trig bench with degree/radian controls. The formula notebook saves named formulas locally and supports JSON import/export. The Windows app also adds Aurora Glass and Monochrome Studio themes plus theme import/export.
 
+Graph, calculus, and interval-root outputs are numerical estimates. The general root finder searches for sign changes inside the interval you choose; it may not find repeated roots or roots outside that interval.
+
 ## Downloads
 
 - [Windows installer](https://github.com/wassimplyhere-ai/apex-downloads/raw/refs/heads/main/Apex-Setup.exe) — installs Apex for the current Windows account. The installer itself does not embed personal contact details.
