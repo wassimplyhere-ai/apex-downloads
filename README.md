@@ -10,8 +10,8 @@ This build improves numeric function parsing for names such as `log10(x)`, refre
 
 ## Downloads
 
-- [Windows installer](https://github.com/wassimplyhere-ai/apex-downloads/raw/refs/heads/main/Apex-Setup.exe) — installs Apex for the current Windows account. The installer itself does not embed personal contact details.
-- [Mobile and iPad package](https://github.com/wassimplyhere-ai/apex-downloads/raw/refs/heads/main/Apex-Mobile-PWA.zip) — a Progressive Web App package for hosting and adding to a device home screen.
+- **[Download Apex for Windows (64-bit)](https://raw.githubusercontent.com/wassimplyhere-ai/apex-downloads/main/Apex-Setup.exe)** — direct binary link with no GitHub file-page redirect. If that link doesn't start, open the [Windows file page](https://github.com/wassimplyhere-ai/apex-downloads/blob/main/Apex-Setup.exe) and click **Download raw file**.
+- [Mobile and iPad package](https://raw.githubusercontent.com/wassimplyhere-ai/apex-downloads/main/Apex-Mobile-PWA.zip) — a Progressive Web App package for hosting and adding to a device home screen.
 
 ## Mobile setup
 
