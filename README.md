@@ -2,11 +2,11 @@
 
 Apex is a calculator and everyday math toolbox for Windows, phones, and tablets. This repository contains the downloads and setup information only; it does not include the application source code.
 
-## Latest update · 1.1.0
+## Latest update · 1.1.1
 
 The new **Math Lab** adds function graphs, linear and quadratic equation solving, interval root finding, numerical derivatives and integrals, data statistics with quartiles, and a trig bench with degree/radian controls. The formula notebook saves named formulas locally and supports JSON import/export. The Windows app also adds Aurora Glass and Monochrome Studio themes plus theme import/export.
 
-Graph, calculus, and interval-root outputs are numerical estimates. The general root finder searches for sign changes inside the interval you choose; it may not find repeated roots or roots outside that interval.
+This patch improves numeric function parsing for names such as `log10(x)` and forces installed mobile copies to check the updated app shell. Graph, calculus, and interval-root outputs are numerical estimates. The general root finder searches for sign changes inside the interval you choose; it may not find repeated roots or roots outside that interval.
 
 ## Downloads
 
@@ -29,8 +29,8 @@ The installer can be run again over an existing installation to replace the app 
 
 SHA-256 checksums:
 
-- `Apex-Setup.exe`: `E49B1CDBB74A513F8F9BD39EBA50EF2104F3EAC6816B6845A62D98B1B94E6222`
-- `Apex-Mobile-PWA.zip`: `2F64CA1D6182E7D84D66C59D57E92C70E0B9FDE9DAD657CDB7B7599FC8E68BBF`
+- `Apex-Setup.exe`: `9445497072E821E7CA3974AC57212114F36CB6CE74203182D39180C15EF2B41E`
+- `Apex-Mobile-PWA.zip`: `F3DEF2D5133537B8BF691CE0BF772AF3365E0E96C6A64D6F9FAC42E326DACE03`
 
 ## Contact and support
 
